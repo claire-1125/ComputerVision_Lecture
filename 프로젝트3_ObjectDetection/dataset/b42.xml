@@ -1,0 +1,38 @@
+<annotation>
+	<folder>banana</folder>
+	<filename>b42.jpg</filename>
+	<path>C:\Users\claire_1125\Desktop\정빈\2020년 2학기\컴퓨터비전\프로젝트\프로젝트3_ObjectDetection\banana\b42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ggoggalcon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1402</xmin>
+			<ymin>1</ymin>
+			<xmax>2988</xmax>
+			<ymax>1388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>1740</xmax>
+			<ymax>1331</ymax>
+		</bndbox>
+	</object>
+</annotation>

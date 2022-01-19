@@ -1,0 +1,38 @@
+<annotation>
+	<folder>banana</folder>
+	<filename>b56.jpg</filename>
+	<path>C:\Users\claire_1125\Desktop\정빈\2020년 2학기\컴퓨터비전\프로젝트\프로젝트3_ObjectDetection\banana\b56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>945</xmin>
+			<ymin>1</ymin>
+			<xmax>2697</xmax>
+			<ymax>2783</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oreo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>596</ymin>
+			<xmax>2244</xmax>
+			<ymax>3120</ymax>
+		</bndbox>
+	</object>
+</annotation>

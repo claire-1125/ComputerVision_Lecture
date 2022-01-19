@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>g110.jpg</filename>
+	<path>D:\computervision\teamproject3\image\test\g110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ggoggalcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>1632</ymin>
+			<xmax>2691</xmax>
+			<ymax>2809</ymax>
+		</bndbox>
+	</object>
+</annotation>

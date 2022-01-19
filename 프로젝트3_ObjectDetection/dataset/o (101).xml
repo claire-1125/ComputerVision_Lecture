@@ -1,0 +1,50 @@
+<annotation>
+	<folder>oreo_data</folder>
+	<filename>o (101).jpg</filename>
+	<path>C:\Users\User\OneDrive - 숙명여자대학교\2020-2 학교생활\컴퓨터비전\과제3_deeplearning\oreo_data\o (101).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1485</xmin>
+			<ymin>1</ymin>
+			<xmax>3019</xmax>
+			<ymax>2041</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oreo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>1126</ymin>
+			<xmax>1969</xmax>
+			<ymax>2641</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ggoggalcon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>934</xmin>
+			<ymin>2040</ymin>
+			<xmax>2027</xmax>
+			<ymax>2926</ymax>
+		</bndbox>
+	</object>
+</annotation>
