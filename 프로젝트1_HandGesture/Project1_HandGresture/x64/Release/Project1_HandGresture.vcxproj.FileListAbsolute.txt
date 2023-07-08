@@ -1,2 +1,0 @@
-C:\Users\claire_1125\Desktop\정빈\2020년 2학기\컴퓨터비전\프로젝트\Project1_HandGresture\x64\Release\Project1_HandGresture.exe
-C:\Users\claire_1125\Desktop\정빈\2020년 2학기\컴퓨터비전\프로젝트\프로젝트1_HandGesture\Project1_HandGresture\x64\Release\Project1_HandGresture.exe
